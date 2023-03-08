@@ -9,4 +9,5 @@ export default defineUserConfig({
   theme: hopeTheme({
     // 此处放置主题配置
   }),
+  
 })
