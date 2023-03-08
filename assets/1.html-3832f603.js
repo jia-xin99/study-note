@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7a2fbafa","path":"/OS/1.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"createdTime":1678248249000,"updatedTime":1678248249000,"contributors":[{"name":"jiaxin","email":"3225465447@qq.com","commits":1}]},"readingTime":{"minutes":0.44,"words":131},"filePathRelative":"OS/1.md","localizedDate":"2023年3月8日"}');export{e as data};
