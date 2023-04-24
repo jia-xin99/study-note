@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5f9d0461","path":"/juc/5-%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E4%B9%8B%E6%A8%A1%E5%BC%8F/","title":"5 并发编程之模式","lang":"zh-CN","frontmatter":{"title":"5 并发编程之模式","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0.03,"words":9},"filePathRelative":null}');export{e as data};

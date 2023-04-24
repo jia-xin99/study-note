@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-8dbca598","path":"/juc/2-Java%E7%BA%BF%E7%A8%8B/","title":"2 Java线程","lang":"zh-CN","frontmatter":{"title":"2 Java线程","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0.03,"words":9},"filePathRelative":null}');export{a as data};

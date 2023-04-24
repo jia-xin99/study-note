@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-10a4f309","path":"/jvm/%E8%BF%90%E8%A1%8C%E6%97%B6%E6%95%B0%E6%8D%AE%E5%8C%BA/","title":"运行时数据区","lang":"zh-CN","frontmatter":{"title":"运行时数据区","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0.03,"words":9},"filePathRelative":null}');export{e as data};

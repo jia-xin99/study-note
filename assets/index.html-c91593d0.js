@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5021af1e","path":"/juc/3-%E5%85%B1%E4%BA%AB%E6%A8%A1%E5%9E%8B%E4%B9%8B%E7%AE%A1%E7%A8%8B/","title":"3 共享模型之管程","lang":"zh-CN","frontmatter":{"title":"3 共享模型之管程","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0.03,"words":9},"filePathRelative":null}');export{e as data};
